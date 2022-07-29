@@ -1,0 +1,13 @@
+{
+    "author": [
+        "Sharky The King"
+    ],
+    "name": "SharkyTools",
+    "install_msg": "Thank you for installing SharkyTools",
+    "description": "Tools that Sharky built",
+    "short": "sharkytools",
+    "tags": [],
+    "type": "COG",
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+    "hidden": true
+}
